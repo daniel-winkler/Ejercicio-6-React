@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ejercicio-6-React/static/css/main.eae3b541.chunk.css",
+    "main.js": "/Ejercicio-6-React/static/js/main.7d0ac44a.chunk.js",
+    "main.js.map": "/Ejercicio-6-React/static/js/main.7d0ac44a.chunk.js.map",
+    "runtime-main.js": "/Ejercicio-6-React/static/js/runtime-main.f83e76ae.js",
+    "runtime-main.js.map": "/Ejercicio-6-React/static/js/runtime-main.f83e76ae.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Ejercicio-6-React/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.67b09c9c.chunk.js": "/Ejercicio-6-React/static/js/2.67b09c9c.chunk.js",
+    "static/js/2.67b09c9c.chunk.js.map": "/Ejercicio-6-React/static/js/2.67b09c9c.chunk.js.map",
+    "index.html": "/Ejercicio-6-React/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Ejercicio-6-React/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.eae3b541.chunk.css.map": "/Ejercicio-6-React/static/css/main.eae3b541.chunk.css.map",
+    "static/js/2.67b09c9c.chunk.js.LICENSE.txt": "/Ejercicio-6-React/static/js/2.67b09c9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f83e76ae.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.67b09c9c.chunk.js",
+    "static/css/main.eae3b541.chunk.css",
+    "static/js/main.7d0ac44a.chunk.js"
+  ]
+}
