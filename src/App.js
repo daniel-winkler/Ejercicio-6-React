@@ -35,18 +35,18 @@ function App() {
       <BrowserRouter>
 
         <nav class="navbar navbar-dark bg-dark justify-content-around font-weight-bold custom">
-          <NavLink to="/ejercicio1" activeClassName="selected" className="text-decoration-none">Ejercicio 1</NavLink>
-          <NavLink to="/ejercicio2" activeClassName="selected" className="text-decoration-none">Ejercicio 2</NavLink>
-          <NavLink to="/ejercicio3" activeClassName="selected" className="text-decoration-none">Ejercicio 3</NavLink>
-          <NavLink to="/ejercicio4" activeClassName="selected" className="text-decoration-none">Ejercicio 4</NavLink>
+          <NavLink to="/Ejercicio-6-React/ejercicio1" activeClassName="selected" className="text-decoration-none">Ejercicio 1</NavLink>
+          <NavLink to="/Ejercicio-6-React/ejercicio2" activeClassName="selected" className="text-decoration-none">Ejercicio 2</NavLink>
+          <NavLink to="/Ejercicio-6-React/ejercicio3" activeClassName="selected" className="text-decoration-none">Ejercicio 3</NavLink>
+          <NavLink to="/Ejercicio-6-React/ejercicio4" activeClassName="selected" className="text-decoration-none">Ejercicio 4</NavLink>
         </nav>
 
         <GlobalContext.Provider value={{contacts, setContacts, todos, setTodos}}>
           <Switch>
-            <Route path="/ejercicio1" component={Ejercicio1} />
-            <Route path="/ejercicio2" component={Ejercicio2} />
-            <Route path="/ejercicio3" component={Ejercicio3} />
-            <Route path="/ejercicio4" component={Ejercicio4} />
+            <Route path="/Ejercicio-6-React/ejercicio1" component={Ejercicio1} />
+            <Route path="/Ejercicio-6-React/ejercicio2" component={Ejercicio2} />
+            <Route path="/Ejercicio-6-React/ejercicio3" component={Ejercicio3} />
+            <Route path="/Ejercicio-6-React/ejercicio4" component={Ejercicio4} />
           </Switch>
         </GlobalContext.Provider>
 
